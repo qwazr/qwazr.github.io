@@ -90,7 +90,7 @@ Issues and milestones are tracked on GitHub:
 License
 -------
 
-&copy; Copyright 2015/2018 [JAEKSOFT / OpenSearchServer]
+&copy; Copyright 2015/2018 [JAEKSOFT / OpenSearchServer](http://www.opensearchserver.com)
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
