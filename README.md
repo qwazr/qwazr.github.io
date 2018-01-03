@@ -10,19 +10,19 @@ What do you get (production ready) ?
 
 This project is a work in progress. The current version of QWAZR brings the following services:
 
-- [Webapps](qwazr-webapps) : A model-view-controller application server,
-- [Scheduler](qwazr-scheduler): A multi-master scheduler,
-- [Scripts](qwazr-scripts): A distributed JAVA/Javascript job service,
-- [Library](qwazr-library) : A set of connectors and tools to link your application to the outside world
+- [Webapps](webapps) : A model-view-controller application server,
+- [Scheduler](scheduler): A multi-master scheduler,
+- [Scripts](scripts): A distributed JAVA/Javascript job service,
+- [Library](library) : A set of connectors and tools to link your application to the outside world
 (Cassandra, MongoDB, MySQL, HDFS, LDAP, FTP, etc.) and data management (language tools, markdown to HTML converter,
 Freemarker, XML parser and writer, etc.).
-- [Crawlers](qwazr-crawlers) : A distributed Web & File crawler,
-- [Extractor](qwazr-extractor) : Text extraction from various kinds of binaries files,
-- [Store](qwazr-store) : File storage service, with near file process execution,
-- [Search](qwazr-search): Full-text indexation and search based on Lucene,
-- [Database](qwazr-database): A NoSQL key/value database based on LevelDB,
-- [Graph](qwazr-graph) : A graph engine (can be used to build a recommendation system),
-- [Cluster](qwazr-cluster) : Manages the cluster's nodes.
+- [Crawlers](crawlers) : A distributed Web & File crawler,
+- [Extractor](extractor) : Text extraction from various kinds of binaries files,
+- [Store](store) : File storage service, with near file process execution,
+- [Search](search): Full-text indexation and search based on Lucene,
+- [Database](database): A NoSQL key/value database based on LevelDB,
+- [Graph](graph) : A graph engine (can be used to build a recommendation system),
+- [Cluster](cluster) : Manages the cluster's nodes.
 
 Getting started
 ---------------
