@@ -1,6 +1,3 @@
-Welcome to QWAZR
-----------------
-
 [![Join the chat at https://gitter.im/qwazr/QWAZR](https://badges.gitter.im/qwazr/QWAZR.svg)](https://gitter.im/qwazr/QWAZR)
 
 QWAZR is a set of microservices dedicated to scalable, failover, distributed projects.
@@ -21,9 +18,10 @@ This project is a work in progress. The current version of QWAZR brings the foll
 Freemarker, XML parser and writer, etc.).
 - [Crawlers](qwazr-crawlers) : A distributed Web & File crawler,
 - [Extractor](qwazr-extractor) : Text extraction from various kinds of binaries files,
-- [Store](qwazr-store) : File storage service,
+- [Store](qwazr-store) : File storage service, with near file process execution,
 - [Search](qwazr-search): Full-text indexation and search based on Lucene,
-- [Database](qwazr-database): A NoSQL key/value database based on LevelDB.
+- [Database](qwazr-database): A NoSQL key/value database based on LevelDB,
+- [Graph](qwazr-graph) : A graph engine (can be used to build a recommendation system),
 - [Cluster](qwazr-cluster) : Manages the cluster's nodes.
 
 Getting started
@@ -53,11 +51,8 @@ The source code is automatically compiled without having to restart the applicat
 
 #### A comprehensive documentation
 
-The purpose of this Wiki.
+The purpose of this web site.
 
-#### Releasing the last modules:
-- [Graph](qwazr-graph) : A graph engine,
-- [Store](qwazr-store): A file management service with distribution and replication support,
 
 Open Source & contributions
 ---------------------------
@@ -95,7 +90,7 @@ Issues and milestones are tracked on GitHub:
 License
 -------
 
-Copyright 2015/2018 [Emmanuel Keller / QWAZR](http://www.qwazr.com)
+@copy; Copyright 2015/2018 [JAEKSOFT / OpenSearchServer]
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
