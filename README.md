@@ -90,7 +90,7 @@ Issues and milestones are tracked on GitHub:
 License
 -------
 
-&copy; Copyright 2015/2018 [JAEKSOFT / OpenSearchServer](http://www.opensearchserver.com)
+&copy; Copyright 2019 QWAZR
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
